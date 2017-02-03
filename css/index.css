@@ -10,7 +10,7 @@ body { font-size: 12px; background: #226039 url(../images/bg.jpg) center 0 scrol
 header { width: 100%; margin: auto; border-bottom: #3c7a48 1px solid }
 .quotes { width: 1000px; position: relative; margin: 60px auto 120px auto; }
 .quotes p { text-shadow: #246640 1px 1px 1px; color: #fff; width: 330px; line-height: 26px; }
-.text5 { position: absolute; left: 0px; top: 160px; font-family: "微软雅黑"; font-size: 30px; color: #FFF; -webkit-box-reflect: below 1px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(white)); }/* below文字倒影方向向下，颜色渐变由上往下*/
+.text5 { position: absolute; left: 0px; top: 160px; font-family: "微软雅黑"; font-size: 30px; color: #FFF; -webkit-box-reflect: below 3px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(white)); }/* below文字倒影方向向下，颜色渐变由上往下*/
 .flower { position: absolute; right: 0; top: 60px; background: url(../images/flower.png) no-repeat; width: 173px; height: 175px; z-index: 2 }
 .flower img { margin: 22px 0 0 17px; display: block; }
 /* nav */
@@ -105,7 +105,7 @@ background-color:#FFFFFF;
 .blog figure p a{color:#226039;}
 .blog figure figcaption{ padding:10px; line-height:22px; color:#666}
 /* hope */
-.text6 {font-family: "微软雅黑"; font-size: 30px; color: #FFF; -webkit-box-reflect: below 1px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(white)); width:1000px; margin:auto  }
+.text6 {font-family: "微软雅黑"; font-size: 30px; color: #FFF; -webkit-box-reflect: below 3px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(white)); width:1000px; margin:auto  }
 .hope{ border-top:50px #559664 solid; padding:20px; color:#FFF }
 .hope ul{ width:1000px; margin:auto;background: url(../images/love.png) no-repeat left center; overflow:hidden}
 .visitors{ width:500px; float:right}
